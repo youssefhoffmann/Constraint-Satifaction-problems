@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="871ecaf7-d5f4-4798-9cc8-0e73a68e2310" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1agWxP3M4jNO5WefYof0YkzvqNW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.NQueenstestMRVDH">
+    <configuration name="NQueenstest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.emse.ai.csp.NQueens.NQueenstest" />
+      <module name="TP123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.emse.ai.csp.NQueens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NQueenstestMRVDH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.emse.ai.csp.NQueens.NQueenstestMRVDH" />
+      <module name="TP123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.emse.ai.csp.NQueens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NQueenstestMinconflict" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.emse.ai.csp.NQueens.NQueenstestMinconflict" />
+      <module name="TP123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.emse.ai.csp.NQueens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NQueenstestbackAC3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.emse.ai.csp.NQueens.NQueenstestbackAC3" />
+      <module name="TP123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.emse.ai.csp.NQueens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fourQueenstestMRVDH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.emse.ai.csp.fourQueens.fourQueenstestMRVDH" />
+      <module name="TP123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.emse.ai.csp.fourQueens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NQueenstestMRVDH" />
+        <item itemvalue="Application.fourQueenstestMRVDH" />
+        <item itemvalue="Application.NQueenstestMinconflict" />
+        <item itemvalue="Application.NQueenstestbackAC3" />
+        <item itemvalue="Application.NQueenstest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="871ecaf7-d5f4-4798-9cc8-0e73a68e2310" name="Default Changelist" comment="" />
+      <created>1587157963311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587157963311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Plugins" timestamp="1587849638026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1587849638026" />
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587158332139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587158332139" />
+    <state x="484" y="255" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587637893310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="255" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1587637893310" />
+    <state width="1323" height="152" key="GridCell.Tab.0.bottom" timestamp="1587907789253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587907789253" />
+    <state width="1323" height="152" key="GridCell.Tab.0.center" timestamp="1587907789253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587907789253" />
+    <state width="1323" height="152" key="GridCell.Tab.0.left" timestamp="1587907789253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587907789253" />
+    <state width="1323" height="152" key="GridCell.Tab.0.right" timestamp="1587907789253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587907789253" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1587851868696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587851868696" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1587851868696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587851868696" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1587851868696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587851868696" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1587851868696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587851868696" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1588167079363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588167079363" />
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1587484785767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1587484785767" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587849609203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587849609203" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fr/emse/ai/csp/australia/MapCSP.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/fr/emse/ai/csp/NQueens/NQueenstest.java</url>
+          <line>9</line>
+          <properties class="fr.emse.ai.csp.NQueens.NQueenstest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
